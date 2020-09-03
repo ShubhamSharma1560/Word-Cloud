@@ -8,4 +8,9 @@ This Word Cloud Project Is Created In python Language on Jupyter NoteBook Platfo
 # Requirement
 1.Knowledge Of Python.
 2.Knowledge Of Object Oriented Programming Language
-3.Knowledge of Jupyter Notebook
+3.Knowledge of Jupyter Notebook0
+
+# Content 
+mbox.txt File used to generate Word Cloud
+Screenshot Of Word Cloud 
+wordCloud.ipynb file In which Script Is Written.
