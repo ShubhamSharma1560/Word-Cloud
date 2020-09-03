@@ -11,6 +11,7 @@ This Word Cloud Project Is Created In python Language on Jupyter NoteBook Platfo
 3.Knowledge of Jupyter Notebook0
 
 # Content 
-mbox.txt File used to generate Word Cloud
-Screenshot Of Word Cloud 
-wordCloud.ipynb file In which Script Is Written.
+
+> mbox.txt File used to generate Word Cloud.
+> Screenshot Of Word Cloud. 
+> wordCloud.ipynb file In which Script Is Written.
